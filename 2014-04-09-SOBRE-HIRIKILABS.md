@@ -22,6 +22,7 @@
 * Se trata el tema de lo local ¿Si, No?
 * No van ha ser una comunidad, es el proceso
 * Detención, definición, metodología 
+* Marco de trabajo 
 
     
     
