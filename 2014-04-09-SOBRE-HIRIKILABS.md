@@ -34,7 +34,8 @@
 	* Puede que alguno rol sea móvil
 * Presupuesto y plan de grupo
 	* Pago por servicio -> 
-* Calendario por cerrar en verano, para posibles sesiones 
+* Calendario por cerrar en verano, para posibles sesiones
+* Que no sea un proces opaco, como se comunica el proceso
     
     
    
