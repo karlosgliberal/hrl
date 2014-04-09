@@ -15,7 +15,7 @@
 
 * Que son los grupos de trabajo
 	* Investigación + Relación
-    
+   
 * Mapa de entorno 
 	* Como funcionar-Modo hacer / en contraposición al proyecto
 
@@ -36,6 +36,7 @@
 	* Pago por servicio -> 
 * Calendario por cerrar en verano, para posibles sesiones
 * Que no sea un proces opaco, como se comunica el proceso
+	* Web, hashtag, como se da sorte documental
     
     
    
