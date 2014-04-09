@@ -39,6 +39,17 @@
 * como se comunica el proceso
 	* Web, hashtag, como se da sorte documental
     * Se tiene que tener la herramienta de comunicación, documentación después de la primera sesión 
+    
+## Grupos de trabajo
+
+### Cultura Libre
+* Posible agenges, institucioens
+	* Tabakalera, obras que van a dominio público 2016
+
+   
+  
+	
+
  
     
     
