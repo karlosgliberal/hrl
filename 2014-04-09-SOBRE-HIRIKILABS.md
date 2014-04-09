@@ -35,8 +35,11 @@
 * Presupuesto y plan de grupo
 	* Pago por servicio -> 
 * Calendario por cerrar en verano, para posibles sesiones
-* Que no sea un proces opaco, como se comunica el proceso
+* Que no sea un proces opaco
+* como se comunica el proceso
 	* Web, hashtag, como se da sorte documental
+    * Se tiene que tener la herramienta de comunicación, documentación después de la primera sesión 
+ 
     
     
    
