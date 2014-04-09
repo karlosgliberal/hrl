@@ -20,6 +20,7 @@
 	* Como funcionar-Modo hacer / en contraposición al proyecto
 
 * Se trata el tema de lo local ¿Si, No?
+* No van ha ser una comunidad, es el proceso
 
     
     
