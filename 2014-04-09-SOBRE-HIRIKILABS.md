@@ -43,8 +43,35 @@
 ## Grupos de trabajo
 
 ### Cultura Libre
+* Perfiles, texto referencial, a la hora de contactar
 * Posible agenges, institucioens
 	* Tabakalera, obras que van a dominio público 2016
+    * Radio libre
+    * Casilda
+    * Oneras Safe-creative
+### Makers
+* Posible agenges, institucioens
+	Maker
+	* Bilbo makers -> Paola (La otra encargada) 
+    * Diseño abierto -> Ainara
+    * Arquitercutra -> Arquimaña
+    	* Universidad Aquitecura -> posible creación de espacios
+    * La mele, katayuno
+    
+### Aprendizaje expandido
+* Posible agenges, institucioens 
+	* http://www.kode-eskola.com/
+    * http://numeroteca.org/2014/01/20/investigacion-colaborativa-divertida-barata-transmedia-otras-formas-de-entender-la-investigacion/
+
+## Conclusiones 
+* Propuesta de listados de personas posibles semana del 28-29 
+* Mayo contactar
+* Acotar tambíen estaría bien
+
+
+
+   
+    
 
    
   
