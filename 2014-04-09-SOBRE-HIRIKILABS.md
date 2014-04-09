@@ -23,7 +23,9 @@
 * No van ha ser una comunidad, es el proceso
 * Detención, definición, metodología 
 * Marco de trabajo 
-
+* ¿Se podria una presentación al final del grupo, al final del año?
+	* Crear espacio, en diciembre (verano), propuesta
+ 
     
     
    
